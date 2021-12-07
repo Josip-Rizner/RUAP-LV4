@@ -65,6 +65,7 @@
     <Compile Include="LoginTestCase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistrationTestCase.cs" />
+    <Compile Include="RemoveFromCartTestCase.cs" />
     <Compile Include="TelUpdTestCase.cs" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
